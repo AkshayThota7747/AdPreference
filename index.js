@@ -4,7 +4,7 @@ const fs = require('fs');
 const app = express();
 
 // Defining get request at '/' route
-app.get('/', function(req, res) {
+app.get('/get', function(req, res) {
   // Read JSON data from file
   fs.readFile('data.json', 'utf8', function(err, data) {
     if (err) {

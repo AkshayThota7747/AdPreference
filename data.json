@@ -1,3 +1,6 @@
 {
-    "adsPerday" : "2"
+    "adsPerday" : "2",
+    "min_ad_shown_interval" : 360000,
+    "main_screen_image_url" : "",
+    "daily_colour_url" : ""
 }

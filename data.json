@@ -1,6 +1,6 @@
 {
     "adsPerday" : "2",
-    "min_ad_shown_interval" : 360000,
-    "main_screen_image_url" : "",
-    "daily_colour_url" : ""
+    "min_ad_shown_interval" : 3600000,
+    "main_screen_image_url" : "https://myfirstappinaws.s3.ap-south-1.amazonaws.com/LatestImages/AppRelease/main_bg.jpeg",
+    "daily_colour_url" : "https://dailycolourupdates.onrender.com"
 }

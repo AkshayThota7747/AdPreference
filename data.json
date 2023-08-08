@@ -3,5 +3,6 @@
     "min_ad_shown_interval" : 1800000,
     "main_screen_image_url" : "",
     "daily_colour_url" : "https://dailycolourupdates.onrender.com",
-    "chat_url" : "https://www5.cbox.ws/box/?boxid=942175&boxtag=RrMdPU"
+    "chat_url" : "https://www5.cbox.ws/box/?boxid=942175&boxtag=RrMdPU",
+    "react_chat_url": "https://kodisastram.org/"
 }

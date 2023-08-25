@@ -5,7 +5,7 @@
     "daily_colour_url" : "https://dailycolourupdates.onrender.com",
     "chat_url" : "https://www5.cbox.ws/box/?boxid=942175&boxtag=RrMdPU",
     "react_chat_url": "https://kodisastram.org/", 
-    "mainScreenImageUrls": [
+    "main_screen_image_urls": [
         "https://myfirstappinaws.s3.ap-south-1.amazonaws.com/KodiSastramAssets/erra_kaki_dega_new.jpeg",
         "https://myfirstappinaws.s3.ap-south-1.amazonaws.com/KodiSastramAssets/erra_kekkirayi.jpeg",
         "https://myfirstappinaws.s3.ap-south-1.amazonaws.com/KodiSastramAssets/thella_kekkirayi.jpeg",

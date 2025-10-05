@@ -14,6 +14,7 @@
   ],
   "rewardedAdEnabled": false,
   "gDrivePathForAssets" : "1n_90fQ4G7KIVOLjIhBmaEE825sMtPZBw", 
-  "appVersion": 1,
-  "bundlePath": ""
+    "appVersion": 2,
+    "bundlePath": "https://drive.google.com/uc?export=download&id=10RrHUBPNTUJTl-Y8osRsqLaFgl0a61Gw",
+    "showAds": false
 }
